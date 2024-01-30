@@ -1,0 +1,1 @@
+export 'camera-page/camera_page.dart';
